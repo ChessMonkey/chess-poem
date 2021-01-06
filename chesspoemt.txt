@@ -1,5 +1,7 @@
 rook
+BANANA
 knight
 bishop
 queen
+BANANA
 King
