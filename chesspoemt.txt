@@ -1,0 +1,5 @@
+rook
+knight
+bishop
+queen
+King
